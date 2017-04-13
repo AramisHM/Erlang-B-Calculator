@@ -1,0 +1,1 @@
+você pode usar CMAKE para criar o projeto
